@@ -1,0 +1,51 @@
+# Arquivos de sistema
+*.DS_Store
+Thumbs.db
+*.log
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# Arquivos de compilação
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações de IDEs/editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de dependência
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribuição
+*.egg-info/
+dist/
+build/
+
+# Testes e relatórios
+.coverage
+.tox/
+nosetests.xml
+*.pytest_cache
+htmlcov/
+
+# Docker
+*.pid
+
+# Node.js (se for incluir frontend no futuro)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Configuração local
+*.local
