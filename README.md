@@ -1,2 +1,12 @@
-# unique
-Unique is an open-source platform for data integration and activation, starting with support for Amazon Redshift. Its goal is to simplify data synchronization and provide robust tools for managing and leveraging your data warehouse efficiently.
+# Data Source Connector
+
+A streamlined tool for connecting to various data sources, starting with Amazon Redshift. This tool provides a user-friendly interface to connect to your data sources and explore your data.
+
+## Features
+
+- Connect to Amazon Redshift databases
+- Interactive column selection from tables
+- Secure credential management
+- User-friendly Streamlit interface
+
+## Project Structure
