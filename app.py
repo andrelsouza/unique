@@ -48,7 +48,7 @@ def main():
                 st.success("Connected successfully!")
 
     # Main content
-    st.title("Data Matching Tool")
+    st.title("Unique - Data Matching Tool")
     
     if 'connector' in st.session_state:
         connector = st.session_state['connector']
