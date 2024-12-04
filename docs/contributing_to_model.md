@@ -1,4 +1,4 @@
-# Contributing to the Matching Model
+# Contributing to the Unique Matching Model
 
 ## Overview
 The core of Unique's identity resolution system is its matching model. The model uses a combination of techniques to identify matching customer records across different data sources. This guide will help you understand how the model works and how you can contribute to its improvement.
@@ -182,13 +182,14 @@ class TestCustomMatcher:
 
 ## Getting Started
 
-1. Fork the repository
-2. Set up development environment
-3. Choose an area to improve
-4. Create a feature branch
-5. Implement your changes
-6. Add tests
-7. Submit a pull request
+1. Have fun!
+2. Fork the repository
+3. Set up development environment
+4. Choose an area to improve
+5. Create a feature branch
+6. Implement your changes
+7. Add tests
+8. Submit a pull request
 
 ## Need Help?
 - Check existing issues
