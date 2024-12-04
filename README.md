@@ -54,7 +54,7 @@ Unique provides a powerful, yet easy-to-use platform that:
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/unique.git
+git clone https://github.com/andrelsouza/unique.git
 cd unique
 ```
 
